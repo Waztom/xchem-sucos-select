@@ -3,7 +3,7 @@
 This script attempts to compare docked conformers with fragment hits using SuCOS
 
 See SuCOS explained in ChemRxiv [manuscript](https://chemrxiv.org/articles/SuCOS_is_Better_than_RMSD_for_Evaluating_Fragment_Elaboration_and_Docking_Poses/8100203) 
-Code edited from original SuCOS [github](https://github.com/susanhleung/SuCOS)
+Code edited from original SuCOS [code](https://github.com/susanhleung/SuCOS)
 
 The score-sucos.py script will: 
 
